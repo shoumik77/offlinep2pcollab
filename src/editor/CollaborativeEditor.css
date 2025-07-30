@@ -1,0 +1,9 @@
+.editor {
+    height: calc(100vh - 50px);
+    padding: 1rem;
+    font-family: monospace;
+    background-color: #1e1e1e;
+    color: white;
+    overflow: auto;
+  }
+  
